@@ -1,3 +1,11 @@
 body {
-    background-color: #b999ff;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/00/14/09/715657121876b5b.jpg);
+}
+
+h1, h3 {
+    font-family: 'Black Ops One', cursive;
+}
+
+.row{
+    color: #000099;
 }
